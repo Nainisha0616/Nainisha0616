@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Velagapudi Nainisha  
+### 🚀 AI/ML Enthusiast | Technology Student | Drone Project Developer
 
-<!--
-**Nainisha0616/Nainisha0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Me
+- 🎓 *2nd Year B.Tech (CSE - AI/ML)* at Dhanekula Institute of Engineering and Technology
+- 🔥 Passionate about *AI, ML, and Drone Technology*
+- 💻 Basic knowledge of *Python, HTML*
+- 🤖 Worked on a *Drone-Based Fire Detection System* using Jetson Nano & Satellite Data
 
-Here are some ideas to get you started:
+## 📂 Projects
+### 🔥 Drone-Based Fire Detection System  
+- Developed a *drone system* to detect forest fires using *temperature maps and satellite data*.  
+- Used *Jetson Nano* for real-time data processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills
+- *Programming:* Python, HTML  
+- *Technologies:* AI/ML Basics, Drone Systems  
+- *Soft Skills:* Problem-solving, Teamwork, Analytical Thinking  
+
+## 📫 Contact Me
+📧 Email: [velagapudinainisha16@gmail.com](mailto:velagapudinainisha16@gmail.com)  
+📞 Phone: 9032777648  
+🔗 LinkedIn: [Your LinkedIn Profile] (if available)  
+🔗 GitHub: [Your GitHub Profile](https://github.com/nainisha16)  
