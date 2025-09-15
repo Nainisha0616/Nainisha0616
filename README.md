@@ -9,7 +9,6 @@ I enjoy solving real-world problems, leading teams in hackathons, and building p
 
 ### Technical Skills  
 **Languages:** Python, C++, HTML, CSS, JavaScript  
-**Core Concepts:** Data Structures & Algorithms, DBMS, Operating Systems  
 **Tools & Platforms:** GitHub, Linux, Google Colab  
 
 ---
